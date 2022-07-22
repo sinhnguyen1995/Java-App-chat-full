@@ -27,7 +27,7 @@ CREATE TABLE `user`
 --
 
 INSERT INTO `user` (`user_id`, `name`, `password`)
-VALUES (1, 'khang', '123456'),
+VALUES (1, 'sinh', '123456'),
        (2, 'Nguyen Van A', '123456'),
        (3, 'Nguyen Van B', '123456'),
        (4, 'Nguyen Van C', '123456'),
