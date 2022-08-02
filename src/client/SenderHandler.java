@@ -179,6 +179,7 @@ public class SenderHandler implements Runnable {
                         while (true) {
                             System.out.println("\n-----ECHO-----");
                             System.out.println("1: back");
+
                             Scanner sc1 = new Scanner(System.in);
                             String echoMessage = inputMessage(sc1);
                             if (echoMessage.equals("")) {
